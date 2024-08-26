@@ -29,16 +29,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-done <img src="https://i.imgur.com/0mJMLKn.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p 
-  done <img src="https://i.imgur.com/gTap6LL.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
-  done <img src="https://i.imgur.com/rhCfxVl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
-  done <img src="https://i.imgur.com/dW8GzLI.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
-  <img src="https://i.imgur.com/UEKlMck.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
-  <img src="https://i.imgur.com/52eVXA1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
-  <img src="https://i.imgur.com/Ndu8qhA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
-  <img src="https://i.imgur.com/1jj60in.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
-  <img src="https://i.imgur.com/zpcOKHF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
-  <img src="https://i.imgur.com/b2AJz7o.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -117,7 +107,11 @@ done <img src="https://i.imgur.com/0mJMLKn.png" height="40%" width="40%" alt="Di
 <p>
 5. Go to open ticket </p>
 
-   You can see the ticket status
+   Select the ticket you would like to work on</p>
+
+   Here you can see the ticket status</p>
+
+   Assign the ticket to the Support team at the bottom</p>
 </p>
 <p>
 <img src="https://i.imgur.com/UEKlMck.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
@@ -131,10 +125,12 @@ done <img src="https://i.imgur.com/0mJMLKn.png" height="40%" width="40%" alt="Di
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6. Here you see the issue of the ticket (i.e. Severe Performance Degradation) </p>
+
+   Update the fields below (example: Priority, Department, Assigned to, SLA and update due date)</p>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/52eVXA1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -145,10 +141,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. It will show you once updated in green</p>
+  
+   After assigning the ticket, you can see who it is assigned to</p>
+
+   You can see the updated fields such as the Priority, Department, Assigned to, SLA and update due date)</p>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ndu8qhA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -159,10 +159,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+8. See who ticket is assigned to</p>
+  
+   Reply about the issue (updates on what is happening with the ticket)</p>
+
+   Post Reply</p>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1jj60in.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -173,10 +177,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+9. Write out your response about the ticket</p>
+
+   Create steps the end user can do (if possible/needed)</p>
+
+   Resolve the ticket</p>
+
+   Post the Reply</p>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zpcOKHF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -187,10 +197,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+10. Closed Tickets
+
+    Here are the closed tickets, including ticket number, subject of ticket, who ticket came from and who closed the ticket</p>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/b2AJz7o.png" height="60%" width="60%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -199,72 +211,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 <br />
 
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-</p>
-</p>
-</p>
-<br />
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-</p>
-</p>
-</p>
-<br />
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-</p>
-</p>
-</p>
-<br />
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-</p>
-</p>
-</p>
-<br />
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-</p>
-</p>
-</p>
-<br />
-<br />
